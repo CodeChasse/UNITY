@@ -17,7 +17,7 @@ public class NewBehaviourScript : MonoBehaviour
     {
         if(Input.GetKeyDown(KeyCode.Space))
         {
-            GetComponent<Rigidbody>().AddForce(Vector3.up*2 , ForceMode.VelocityChange);
+            GetComponent<Rigidbody>().AddForce(Vector3.up*4 , ForceMode.VelocityChange);
         }
 
         keyInput = Input.GetAxis("Horizontal");
