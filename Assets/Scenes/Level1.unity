@@ -432,6 +432,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Platform
       objectReference: {fileID: 0}
+    - target: {fileID: 6467012019527689788, guid: fcb3125844dc4f54d98b6a36e7e6513c, type: 3}
+      propertyPath: Scene
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6467012019527689788, guid: fcb3125844dc4f54d98b6a36e7e6513c, type: 3}
+      propertyPath: NextScene
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 6467012019527689791, guid: fcb3125844dc4f54d98b6a36e7e6513c, type: 3}
       propertyPath: m_RootOrder
       value: 3
@@ -442,7 +450,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6467012019527689791, guid: fcb3125844dc4f54d98b6a36e7e6513c, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 11.75
+      value: 14.55
       objectReference: {fileID: 0}
     - target: {fileID: 6467012019527689791, guid: fcb3125844dc4f54d98b6a36e7e6513c, type: 3}
       propertyPath: m_LocalPosition.y
